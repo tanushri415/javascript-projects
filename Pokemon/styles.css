@@ -1,0 +1,39 @@
+#get-poke-button{
+  margin-bottom:2vh;
+}
+#poke-con{
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  width:60%;
+  height:75vh;
+  border:10px solid rgba(0,116,236,.9294117647058824);
+  margin:0 auto;
+  margin-bottom:2vh;
+}
+
+#poke-name{
+  text-align:center;
+  font-size:32px;
+  font-family:sans-serif;
+}
+.poke-stats{
+  display:flex;
+}
+.poke-stats-left{
+  background-color:  #DFF0D8;
+  min-height:20vh;
+  width:50%;
+}
+.poke-stats-right{
+  background-color:  #FEF4F4;
+  min-height:20vh;
+  width:50%;
+}
+h1, .poke-controls{
+  text-align:center;
+  font-family:sans-serif;
+}
+h1{
+  font-size:48px;
+}
